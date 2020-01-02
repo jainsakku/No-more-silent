@@ -1,0 +1,3 @@
+# No-more-silent is an android app works better with android 6 and below. This app was designed with intention of rescuinig inn emergency situations if the mobile phone is on silent mode. The functionlity of this app is that it changes the mode of the mobile from from silent to ringer after a particular number of missed calls set by the user. Thus if the user has phone on silent mode and in emergency situation the number of missed calls exceeds the set amount then profile gets changed.
+
+The app currently faces problem in running background in android 6 and above but i am still working on the thing.
